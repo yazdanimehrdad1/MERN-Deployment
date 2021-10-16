@@ -1,0 +1,9 @@
+.error-text {
+  color: red;
+  font-size: 18px;
+}
+
+.box{
+  border: blue solid 3px;
+  padding: 10px;
+}
